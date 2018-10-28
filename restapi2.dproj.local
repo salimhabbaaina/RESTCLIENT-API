@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/13 22:14:39.000.854,=C:\Users\FUJITSU\Documents\Embarcadero\Studio\Projets\Unit2.pas</Transaction>
+    <Transaction>2018/08/14 06:44:06.000.162,C:\Users\FUJITSU\Documents\Embarcadero\Studio\Projets\Unit2.dfm=C:\laragon\www\salim\Delphi\restapi.dfm</Transaction>
+    <Transaction>2018/08/14 06:44:06.000.096,C:\Users\FUJITSU\Documents\Embarcadero\Studio\Projets\Unit2.pas=C:\laragon\www\salim\Delphi\restapi.pas</Transaction>
+    <Transaction>2018/08/14 06:44:39.000.615,C:\Users\FUJITSU\Documents\Embarcadero\Studio\Projets\Project2.dproj=C:\laragon\www\salim\Delphi\restapi2.dproj</Transaction>
+    <Transaction>2018/08/14 12:50:32.000.571,=C:\laragon\www\salim\Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/08/18 22:40:29.000.731,C:\laragon\www\salim\Delphi\Unit1.dfm=C:\laragon\www\salim\Delphi\restapi2.dfm</Transaction>
+    <Transaction>2018/08/18 22:40:29.000.717,C:\laragon\www\salim\Delphi\Unit1.pas=C:\laragon\www\salim\Delphi\restapi2.pas</Transaction>
+    <Transaction>2018/08/19 14:02:48.000.693,C:\laragon\www\salim\Delphi\restapi3.dfm=C:\laragon\www\salim\Delphi\restapi2.dfm</Transaction>
+    <Transaction>2018/08/19 14:02:48.000.693,C:\laragon\www\salim\Delphi\restapi3.pas=C:\laragon\www\salim\Delphi\restapi2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
